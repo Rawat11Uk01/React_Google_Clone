@@ -1,3 +1,21 @@
+# Project Description
+
+A google like search engine frontend using react router
+& context api.
+
+# Project ScreenShots
+
+HOME PAGE
+
+![Screenshot from 2022-04-26 23-07-56](https://user-images.githubusercontent.com/99875782/165359786-66c5d082-dbac-4fdd-9e7a-1d680ca61f0e.png)
+
+SEARCH PAGE
+
+![Screenshot from 2022-04-24 11-18-45](https://user-images.githubusercontent.com/99875782/165359904-f3323ee5-24cd-4bc1-a463-7862365af178.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
